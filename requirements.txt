@@ -21,7 +21,6 @@ click-repl==0.3.0
 colorama==0.4.3
 coverage==6.4.2
 cryptography==37.0.4
-cupshelpers==1.0
 dbus-python==1.2.16
 defer==1.0.6
 Deprecated==1.2.14
